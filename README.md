@@ -36,4 +36,4 @@ To manufacture this board, use the provided files in the `/Outputs` folder.
 3. To view without Altium, refer to the PDF schematics in the `/Outputs` folder.
 
 ---
-Designed with ❤️ by [Your Name/Username]
+Designed with ❤️ by [Pulkit]
